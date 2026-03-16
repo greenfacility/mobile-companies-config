@@ -1,0 +1,28 @@
+{
+  "companies": [
+    {
+      "name": "WestLink FM",
+      "slug": "westlink",
+      "api": "https://westlink-servo-api-new.onrender.com",
+      "logo": "https://westlink.servo.sostein.ng/images/westlink.png"
+    },
+    {
+      "name": "Libra Fm",
+      "slug": "librafm",
+      "api": "https://api-7od5.onrender.com",
+      "logo": "https://librafm.servo.sostein.ng/images/libra.jpeg"
+    },
+    {
+      "name": "Green Fm",
+      "slug": "greenfm",
+      "api": "https://greenfm-servo-api-new.onrender.com",
+      "logo": "https://servo.sostein.ng/images/greenfm.jpeg"
+    },
+    {
+      "name": "DCC Estate",
+      "slug": "dcc",
+      "api": "https://dcc-servo-api-new.onrender.com",
+      "logo": "https://dcc.servo.sostein.ng/images/dcclogo.jpg"
+    }
+  ]
+}
