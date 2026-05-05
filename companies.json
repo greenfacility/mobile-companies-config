@@ -23,6 +23,12 @@
       "slug": "dcc",
       "api": "https://dcc-servo-api-new.onrender.com",
       "logo": "https://dcc.servo.sostein.ng/images/dcclogo.jpg"
-    }
+    },
+    {
+      "name": "Dapo Olaiya Consulting",
+      "slug": "doc",
+      "api": "https://doc-servo-api-new.onrender.com",
+      "logo": "https://doc.servo.sostein.ng/images/dcclogo.jpg"
+    },
   ]
 }
