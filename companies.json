@@ -1,7 +1,7 @@
 {
   "companies": [
     {
-      "name": "WestLink FM",
+      "name": "WestLink FM", 
       "slug": "westlink",
       "api": "https://westlink-servo-api-new.onrender.com",
       "logo": "https://westlink.servo.sostein.ng/images/westlink.png"
